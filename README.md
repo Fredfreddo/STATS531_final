@@ -1,7 +1,7 @@
 # Analysis of Middle-East Respiratory Syndrome coronavirus in Saudi Arabia
 A STATS 531 24W Final Project
 
-Fangqing Yuan (fangqing), Anusha Pathuri (anupath), Nathan Rosenfeld (nrosenfe)
+Fangqing Yuan, Anusha Pathuri, Nathan Rosenfeld
 
 ## Background
 
