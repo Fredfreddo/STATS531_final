@@ -9,4 +9,4 @@ Middle-East respiratory syndrome (MERS-CoV, or MERS) is a virus which affects th
 
 In this project, we perform analysis on MERS cases in Saudi Arabia from January 2014 to May 2016. We first analyze the data using ARIMA time series models, and then further explore the data with a Susceptible-Exposed-Infectious-Recovered-Susceptible (SEIRS) model to simulate the spreading of MERS among camels population.
 
-## Major files: unblinded.html and unblinded.Rmd
+## Major files: unblinded.html and unblinded.Rmd. To read the paper, open unblinded.html in a browser.
